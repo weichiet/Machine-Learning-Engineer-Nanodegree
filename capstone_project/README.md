@@ -2,6 +2,10 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Project: Forecasting Stock Price Movement Direction
 
+### Report
+* `capstone_project_proposal.pdf`: Project proposal of the Capstone Project  
+* `capstone_project_report.pdf`: Project report of the Capstone Project   
+
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
@@ -36,4 +40,3 @@ This project uses a market simulator provided by [Quantopian](https://www.quanto
 
 `'/data'` folder contains CSV files of stock indices data used in this project.  
 *`Get_Web_Data`* variable in the code controls whether the input data is retrieved from the web or imported from CSV files.  
-
