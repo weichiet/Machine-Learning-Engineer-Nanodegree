@@ -2,6 +2,8 @@
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
 
+### [Project Description](./project_description.md)
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
