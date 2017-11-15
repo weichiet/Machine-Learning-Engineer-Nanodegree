@@ -2,6 +2,8 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Project: Forecasting Stock Price Movement Direction
 
+### [Project Description](./project_description.md)
+
 ### Report
 * `capstone_project_proposal.pdf`: Project proposal of the Capstone Project  
 * `capstone_project_report.pdf`: Project report of the Capstone Project   
