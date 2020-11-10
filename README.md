@@ -5,6 +5,9 @@ Machine learning represents a key evolution in the fields of computer science, d
 
 This [program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) will teach you how to become a machine learning engineer, and apply predictive models to massive data sets in fields like finance, healthcare, education, and more.
 
+[Graduation Certificate](https://confirm.udacity.com/NCUA6RR9)
+<img src="./images/certificate.svg">
+
 ## Projects
 1. [Titanic Survival Exploration](./titanic_survival_exploration)  
 Created decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features, such as sex and age.
